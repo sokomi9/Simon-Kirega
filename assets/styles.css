@@ -1,0 +1,27 @@
+.carousel-image
+{
+    height:100vh;
+    /* width: 50px; */
+}
+
+
+  /* Custom styles for carousel captions */
+  .custom-caption {
+    background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
+    padding: 15px;
+    border-radius: 8px;
+  }
+  
+  .custom-caption h3 {
+    color: #ffdd57; /* Bright yellow for visibility */
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .custom-caption p {
+    color: #ffffff; /* White text for contrast */
+    font-size: 1.2rem;
+  }
+
+  
+    
