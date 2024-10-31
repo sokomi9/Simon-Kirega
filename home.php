@@ -8,7 +8,7 @@
     <h3 class="text-center mt-3 pt-5 pb-5">
         I specilize in the following
     </h3>
-    <div class="row justify-content-around">
+    <div class="row justify-content-around mb-5" >
         <div class="col-sm-3 p-3">
             <div class="card" style="width:400px">
                 <img class="card-img-top" src="assets/images/Simo2.jpg" alt="Simo2" style="width:100%">
@@ -27,6 +27,20 @@
                 </div>
             </div>
         </div>
+    </div>
+</div>
+<hr>
+<div class="container mt-10">
+    <div class="row">
+        <blockquote class="d-sm-flex align-content-center mt-5">
+            <span>
+                <p class="display-6">“You can design and create, and build the most wonderful
+                    place in the world. But it takes people to make the dream a reality.”
+                <footer class="blockquote-footer">Walt Disney</footer>
+                </p>
+            </span>
+            <span><img class="float-end" src="images/Simo4.jpg" alt="Simo4"></span>
+        </blockquote>
     </div>
 </div>
 
